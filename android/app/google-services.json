@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "208440861678",
+    "firebase_url": "https://everydone-495d4-default-rtdb.firebaseio.com",
+    "project_id": "everydone-495d4",
+    "storage_bucket": "everydone-495d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208440861678:android:4d3c167caedd5810c864ff",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208440861678-4vevir5nd4r55o25694jsapprdpnm6gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYym-UNKRto00pCsuIx28u7H4hlNwV068"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208440861678-4vevir5nd4r55o25694jsapprdpnm6gq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208440861678-osok14g01br27lp1g0178gnjiu732ofp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Everydone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
