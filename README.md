@@ -9,4 +9,7 @@ Sign up <br/>
 Home
 <img src=https://user-images.githubusercontent.com/89621808/221146016-d419dab0-0cdf-4a60-abb6-cbdc525953f3.png width="250">
 <br/>
+BMI Cal<br/>
+
+<img src=https://user-images.githubusercontent.com/89621808/221146501-f83caa17-fc63-4e7c-b4b2-cf61b58bc8e9.png width="250">
 
