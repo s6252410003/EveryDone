@@ -1,7 +1,12 @@
 ### DEMO <br/>
-Sign up <br/>
+Sign in <br/>
 <img src=https://user-images.githubusercontent.com/89621808/209249386-79950e51-2a5b-4e48-a84d-1b25cc8d1572.png width="250">
 <br/>
+
+Sign up <br/>
+<img src=https://github.com/s6252410003/Everydone/assets/89621808/bdb6b4a1-9219-4782-9dee-cd98d019fb49.png width="250">
+<br/>
+
  <br/>
  My Profile
 <img src=https://user-images.githubusercontent.com/89621808/221144884-1746909a-18fb-4d31-943c-846d5c66dbb6.png width="250">
